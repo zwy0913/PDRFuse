@@ -89,7 +89,7 @@ triton==2.0.0
 ${PROJECT_ROOT}
     └── train.py # The script for network training.
     └── inference.py # The script for obtaining fusion results.
-    └── requirements.tet # The dependencies list.
+    └── requirements.txt # The dependencies list.
     ├── trained_weights # The folder contains the pre-trained weights we provided to run the model.
         └── 2024-10-17 14.36.04 # The folder, where the weights are placed.
             └── cuda_chk.txt # Training Logs.
