@@ -149,7 +149,7 @@ python train.py
 ```
 
 ## 🎯 Test
-Put the checkpoint in the `./trained_weights` (We have already done.).
+Put the checkpoint in the `./trained_weights` (We have already done).
 
 ```shell
 python inference.py
