@@ -43,7 +43,7 @@ Finally, $\mathcal{D}_A^{\lambda}, \mathcal{D}_B^{\lambda}$ are used to yield hi
 ### Network Design
 
 <div align="center">
-  <img src="readme_figs/network.png" width="2881" style="max-width: 75%;"/>
+  <img src="readme_figs/network.png" style="max-width: 75%;"/>
 </div>
 
 **Fig.3.** Detailed Network design of the proposed method.
