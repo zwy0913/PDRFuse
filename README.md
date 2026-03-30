@@ -168,7 +168,7 @@ ${DATASET_ROOT}
         └── 0002.png
         └── ...
 ```
-We have put some test datasets in the `./test_datasets` folder.\
+You can put test datasets in the `./test_datasets` folder.\
 The new high-resolution HRMFF dataset is available **[here](https://github.com/zwy0913/HRMFF)**.
 
 ## 📊 Results
