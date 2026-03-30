@@ -20,9 +20,9 @@ from misc.metrics_compute import compute_loss_and_metrics_focus
 class Trainer(object):
     def __init__(self,
                  data_path=[
-                     'K:/Datasets/Train_Valid/MFFdatasets-duts-te',
-                     'L:/Datasets/Train_Valid/MFFdatasets-duts-tr',
-                     'L:/Datasets/Train_Valid/MFFdatasets-voc12',
+                     'train_datasets/MFFdatasets-duts-te',
+                     'train_datasets/MFFdatasets-duts-tr',
+                     'train_datasets/MFFdatasets-voc12',
                      # 'L:/Datasets/Train_Valid/MFFdatasets-dut-omron',
                      # 'L:/Datasets/Train_Valid/MFFdatasets-ECSSD',
                      # 'L:/Datasets/Train_Valid/MFFdatasets-msra10k',
