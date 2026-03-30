@@ -43,7 +43,7 @@ Finally, $\mathcal{D}_A^{\lambda}, \mathcal{D}_B^{\lambda}$ are used to yield hi
 ### Network Design
 
 <div align="center">
-  <img src="readme_figs/network.png" style="max-width: 75%;"/>
+  <img src="readme_figs/network.png" width="2881" style="max-width: 75%;"/>
 </div>
 
 **Fig.3.** Detailed Network design of the proposed method.
@@ -57,12 +57,12 @@ The feature size of each layer is marked on the left.
 ### Pre-implemented dependencies
 
 The code is built on the pre-implemented selective can.\
-If you are running on the Windows OS, a local compilation of selective cans is needed.\
+If you are running on the Windows OS, a local compilation of selective cans may needed.\
 For troubleshooting, the installation guide of [Vmamba](https://github.com/MzeroMiko/VMamba) is recommended.
 
 ### Environment
 
--   python == 3.10.13
+-   Python == 3.10.13
 -   CUDA == 12.1
 -   cuDNN == 8.9.4
 -   Pytorch == 2.1.2
