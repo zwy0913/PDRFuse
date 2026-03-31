@@ -92,7 +92,7 @@ ${PROJECT_ROOT}
     └── requirements.txt # The dependencies list.
     ├── trained_weights # The folder contains the pre-trained weights we provided to run the model.
         └── 2024-10-17 14.36.04 # The folder, where the weights are placed.
-            └── cuda_chk.txt # Training Logs.
+            └── 2024-10-17 14.36.04.txt # Training Logs.
             └── model_S66.ckpt # The pre-trained weights.
     ├── readme_figs # The folder contains the figures for the README document.
     ├── nets # The package contains the network components.
@@ -104,7 +104,7 @@ ${PROJECT_ROOT}
         └── dataloader.py # The dataloader helpers.
         └── general.py # The image processing helpers.
         └── make_up_datasets_lensblur.py # The training data builder.
-        └── metrics_compute.py # The traing loss helpers.
+        └── metrics_compute.py # The training loss helpers.
         └── sobel_op.py # The implementation of the sobel operator.
 
 ```
