@@ -100,7 +100,7 @@ ${PROJECT_ROOT}
         └── repETB.py # The implementation of the re-parameterized convolutions (RepConv) in testing.
         └── FSSM.py # The implementation of the fusion state-space model (FSSM).
         └── PDRF.py # The implementation of the decision refinement network backbone.
-    ├── nets # The package contains some helper classes.
+    ├── misc # The package contains some helper classes.
         └── dataloader.py # The dataloader helpers.
         └── general.py # The image processing helpers.
         └── make_up_datasets_lensblur.py # The training data builder.
