@@ -233,8 +233,18 @@ The new high-resolution HRMFF dataset is available **[here](https://github.com/z
 
 ## 📄 Citation
 
-The paper {Progressive decision refinement for high-resolution multi-focus image fusion} is currently under review.
-
+```
+@article{Zheng2026PDRFuse,
+  title={Progressive decision refinement for high-resolution multi-focus image fusion},
+  author={Wenyi Zheng and Mingqiang Zhou and Di Xiao},
+  journal={Information Fusion},
+  year={2026},
+  volume={135},
+  pages={104434-104454},
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.inffus.2026.104434}
+}
+```
 
 
 
